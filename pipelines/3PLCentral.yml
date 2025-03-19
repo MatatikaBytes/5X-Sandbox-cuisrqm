@@ -1,8 +1,0 @@
-version: pipelines/v0.1
-name: 3PLCentral
-timeout: 0
-max_retries: 0
-data_components:
-- tap-3plcentral
-- Warehouse
-- dbt
